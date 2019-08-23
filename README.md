@@ -1,5 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-Being hosted at the following address https://facerecognitionbrain.njabulombuli.co.za
+Being hosted at the following address http://facerecognitionbrain.njabulombuli.co.za
 
 ## Available Scripts
 
