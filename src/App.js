@@ -31,7 +31,6 @@ class App extends Component{
 
   onButtonSubmit=()=>{
     console.log("click");
-    app.models.predict
   }
 
   onInputChange=(event)=>{
